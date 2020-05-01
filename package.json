@@ -1,0 +1,7 @@
+{
+  "name": "com.dij.package",
+  "displayName": "Beta Package (Immutable Prefab Issue)",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "Package that illustrates the editor issue with immutable prefabs"
+}
